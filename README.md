@@ -1,4 +1,4 @@
-## Exercise 1:
+<!-- ## Exercise 1:
 
 + Create a class named Car - make sure it is public
 
@@ -9,4 +9,4 @@
 ### In the Main method:
    + Create a new instance of the Car class
    + Set values in the properties for the object
-   + Print the values of each property to the Console
+   + Print the values of each property to the Console -->
